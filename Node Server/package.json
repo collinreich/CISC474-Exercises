@@ -1,0 +1,21 @@
+{
+  "name": "node-server",
+  "version": "1.0.0",
+  "description": "doing this for 474 exercise",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo\\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "Collin Reich",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
